@@ -1,3 +1,3 @@
 # Simple_calculator
-A simple calculator with the help of Django ,python and html , bootstrap
+A simple calculator with the help of Django ,python and html , bootstrap<br>
 Author - Aryan pandey
